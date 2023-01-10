@@ -1,0 +1,15 @@
+.createRoom {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 5vh;
+  width: 10vw;
+  background-color: #f5f5f5;
+  margin-top: 47.5vh;
+  margin-bottom: 47.5vh;
+  margin-right: 45vw;
+  margin-left: 45vw;
+    border-radius: 10px;
+    font-size: 15px;
+}
